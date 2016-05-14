@@ -1,0 +1,6 @@
+[submodule "gnome-terminal-colors"]
+	path = gnome-terminal-colors
+	url = https://github.com/jdwiegman/gnome-terminal-colors-solarized
+[submodule ".vim/bundle/darcula"]
+	path = .vim/bundle/darcula
+	url = https://github.com/blueshirts/darcula.git
