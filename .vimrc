@@ -1,6 +1,7 @@
 "http://dougblack.io/words/a-good-vimrc.html
 "https://github.com/tpope/vim-pathogen
 "https://github.com/blueshirts/darcula
+"http://blog.petrzemek.net/2016/04/06/things-about-vim-i-wish-i-knew-earlier/
 
 execute pathogen#infect()
 syntax enable
@@ -12,6 +13,7 @@ set shiftwidth=4
 set expandtab
 
 set number
+"set relativenumber
 set showcmd
 set wildmenu
 set lazyredraw
