@@ -26,8 +26,9 @@ set incsearch
 set hlsearch
 
 set autoindent
-set smartindent
-set textwidth=79
+"set smartindent
+filetype plugin indent on
+"set textwidth=79
 
 "all ~ backup files to tmp folder
 set backup
